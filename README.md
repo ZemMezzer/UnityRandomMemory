@@ -1,6 +1,6 @@
 # Random Memory for Unity
 
-Unity package built from [RandomMemory](https://github.com/ZemMezzer/random-memory) — an in-memory database with Roslyn Source Generator support.
+Unity package built from [RandomMemory](https://github.com/ZemMezzer/RandomMemory) — an in-memory database with Roslyn Source Generator support.
 
 ## Installation
 
