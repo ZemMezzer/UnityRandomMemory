@@ -1,0 +1,11 @@
+{
+  "name": "com.tiredsiren.random_memory",
+  "version": "1.0.0",
+  "displayName": "RandomMemory",
+  "description": "Source Generator based Embedded Typed Mutable In-Memory Document Database for Unity.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Zem"
+  },
+  "licensesUrl": "https://github.com/ZemMezzer/UnityRandomMemory/blob/master/LICENSE"
+}
